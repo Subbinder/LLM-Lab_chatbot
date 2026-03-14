@@ -23,4 +23,4 @@ for setup you need to install all this tool's
 
 `pip install -r requirements.txt`
 
-and also creat env 👽
+and also create env 👽
